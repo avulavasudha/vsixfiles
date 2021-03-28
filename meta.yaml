@@ -19,4 +19,4 @@ spec:
   extensions:
   - https://github.com/microsoft/vscode-python/releases/download/2020.2.62710/ms-python-release.vsix
   - https://github.com/vzhukovs/remote-file-system-test/raw/main/remote-file-system-test-0.0.1.vsix
-  - https://raw.githubusercontent.com/pgirishibm/che-plugin-registry/master/ms-toolsai.jupyter-2021.2.576440691.vsix
+  
