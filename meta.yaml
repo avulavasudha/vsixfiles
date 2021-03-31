@@ -18,5 +18,5 @@ spec:
     memoryLimit: '512Mi'
   extensions:
   - https://github.com/microsoft/vscode-python/releases/download/2020.2.62710/ms-python-release.vsix
-  - https://raw.githubusercontent.com/avulavasudha/vsixfiles/master/ms-vscode-remote.vscode-remote-extensionpack-0.20.0.vsix
+  - https://github.com/vzhukovs/remote-file-system-test/raw/main/remote-file-system-test-0.0.1.vsix
   
