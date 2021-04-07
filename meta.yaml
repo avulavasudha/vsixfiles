@@ -13,7 +13,8 @@ category: Language
 firstPublicationDate: '2020-04-27'
 spec:
   extensions:
-  - https://github.com/avulavasudha/vsixfiles/raw/ms-toolsai.jupyter-2021.3.593162453.vsix
+  - https://github.com/avulavasudha/vsixfiles/raw/ms-vscode-remote.remote-ssh-0.62.0.vsix
+
 
   
   
