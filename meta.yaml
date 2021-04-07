@@ -13,4 +13,4 @@ category: Language
 firstPublicationDate: '2020-04-27'
 spec:
   extensions:
-  - https://raw.githubusercontent.com/avulavasudha/vsixfiles/master/ms-vscode-remote.remote-ssh-0.62.0.vsix
+  - https://raw.githubusercontent.com/nupurnegi/jupyter_plugin/master/ms-vscode-remote.remote-containers-0.166.0.vsix
