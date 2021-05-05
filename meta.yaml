@@ -1,12 +1,11 @@
 apiVersion: v2
-publisher: ms-remote
-name: remotessh
+publisher: ms-python
+name: vscode-didact-python
 version: 2020.4.76186
 type: VS Code extension
-displayName: remotessh
-title: ssh extension
-description: Linting, Debugging (multi-threaded, remote), Intellisense, code formatting,
-  refactoring, unit tests, snippets, and more.
+displayName: vscode-didact-python
+title: vscode python didact
+description: activate python on workspace start
 icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
 repository: https://github.com/Microsoft/vscode-python
 category: Language
