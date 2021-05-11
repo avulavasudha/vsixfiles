@@ -1,0 +1,15 @@
+apiVersion: v2
+publisher: ms-python
+name: vscode-active-python
+version: latest
+type: VS Code extension
+displayName: ActivePython
+title: ActivePython
+description: Actiavte python at workspace start
+icon: /v3/images/ms-python-python-icon.png
+repository: https://github.com/Microsoft/vscode-python
+category: Language
+firstPublicationDate: '2020-04-27'
+spec:
+  extensions:
+  - 'https://raw.githubusercontent.com/avulavasudha/vsixfiles/master/autoactivatepythonextension-0.0.1.vsix'
