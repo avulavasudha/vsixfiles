@@ -1,6 +1,6 @@
 apiVersion: v2
 publisher: ibm
-name: customserver
+name: custom
 version: latest
 type: VS Code extension
 displayName: customserver
