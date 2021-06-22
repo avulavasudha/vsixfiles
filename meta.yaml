@@ -12,5 +12,5 @@ category: Language
 firstPublicationDate: '2020-04-27'
 spec:
   extensions:
-   - 'https://github.com/microsoft/vscode-python/releases/download/2020.7.94776/ms-python-release.vsix'
+   - 'https://raw.githubusercontent.com/avulavasudha/vsixfiles/masterms-python-insiders.vsix'
    - 'https://raw.githubusercontent.com/avulavasudha/vsixfiles/master/jupyterserver-0.0.1 (2).vsix'
