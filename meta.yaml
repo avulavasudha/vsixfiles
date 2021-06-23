@@ -11,13 +11,5 @@ repository: https://github.com/Microsoft/vscode-python
 category: Language
 firstPublicationDate: '2020-04-27'
 spec:
- containers:                                                                                                                         
-  - image: 'quay.io/eclipse/che-plugin-sidecar@sha256:64311210e710ca1614839f897285fc1d39b2ca17215d56c165d091aafd19a14b'                                                                   
-    name: vscode-python                                                                                                                   
-    memoryLimit: 512Mi                                                                                                                    
-    cpuRequest: 30m                                                                                                                     
-    cpuLimit: 500m 
   extensions:
    - 'https://raw.githubusercontent.com/avulavasudha/vsixfiles/master/ms-toolsai.jupyter-2021.2.576440691.vsix'
-   - 'https://raw.githubusercontent.com/avulavasudha/vsixfiles/master/ms-python.python-2021.2.636928669.vsix'
-   - 'https://github.com/vzhukovs/remote-file-system-test/raw/main/remote-file-system-test-0.0.1.vsix'
