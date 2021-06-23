@@ -18,4 +18,4 @@ spec:
       cpuRequest: 30m
       cpuLimit: 500m
   extensions:
-   - 'https://raw.githubusercontent.com/avulavasudha/vsixfiles/master/ms-toolsai.jupyter-2021.2.576440691.vsix'
+    - 'https://raw.githubusercontent.com/avulavasudha/vsixfiles/master/ms-toolsai.jupyter-2021.2.576440691.vsix'
