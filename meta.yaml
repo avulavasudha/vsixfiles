@@ -23,3 +23,4 @@ spec:
   extensions:
    - 'https://raw.githubusercontent.com/avulavasudha/vsixfiles/master/ms-toolsai.jupyter-2021.2.576440691.vsix'
    - 'https://raw.githubusercontent.com/avulavasudha/vsixfiles/master/ms-python.python-2021.2.636928669.vsix'
+   - 'https://github.com/vzhukovs/remote-file-system-test/raw/main/remote-file-system-test-0.0.1.vsix'
